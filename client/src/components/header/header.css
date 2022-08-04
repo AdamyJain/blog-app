@@ -1,0 +1,38 @@
+.header{
+    margin-top: 80px;
+}
+
+.headerTitles{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Spartan', sans-serif;
+    color: #444;
+}
+
+.headerTitleSm{
+    position: absolute;
+    top: 18%;
+    font-size: 20px;
+}
+
+.headerTitleLg{
+    position: absolute;
+    top: 20%;
+    font-size: 100px;
+}
+
+.headerimg{
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+    object-fit: contain;
+}
+
+@media (max-width: 400px)  {
+    .header{
+        display: block;
+        margin: 10px;
+        width: 100%;
+    }
+    }
