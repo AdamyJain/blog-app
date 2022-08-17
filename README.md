@@ -104,3 +104,16 @@ Project Link: [https://github.com/AdamyJain/blog-app](https://github.com/AdamyJa
 [product-screenshot]: images/HomePage.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Express.js]: https://reactjs.org/
+[Express-url]: https://expressjs.com/
+[Node.js]: https://expressjs.com/
+[Node-url]: https://nodejs.org/en/
+[MongoDB]: https://nodejs.org/en/
+[MongoDB-url]: https://www.mongodb.com/
+[HTML]: https://nodejs.org/en/
+[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS]: https://nodejs.org/en/
+[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[JavaScript]: https://nodejs.org/en/
+[JS-url]: https://www.javascript.com/
+
