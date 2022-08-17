@@ -7,7 +7,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![product-screenshot]]
+![product-screenshot]
 
 Created a blog web application for multiple users to write their stories and share them to other users. This project is a MERN stack web application using various elements such as React hooks, Context API.
 
